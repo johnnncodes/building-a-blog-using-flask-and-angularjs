@@ -1,0 +1,12 @@
+*.py[co]
+
+# Installer logs
+pip-log.txt
+
+# OSX
+.DS_Store
+
+/client/bower_components/
+
+server/app.sqlite
+server/app/config.py
