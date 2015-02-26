@@ -1,0 +1,22 @@
+{
+  "name": "client",
+  "version": "0.0.0",
+  "authors": [
+    "John Kevin Basco <basco.johnkevin@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.2.21",
+    "bootstrap": "~3.2.0",
+    "restangular": "~1.4.0",
+    "angularjs": "~1.2.21",
+    "angular-local-storage": "~0.0.7"
+  }
+}
